@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center radar reticle guidelines -->
+    <path
+        android:pathData="M54,26 L54,82 M26,54 L82,54"
+        android:strokeColor="#40A9C7D8"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+    <!-- Concentric lens ring -->
+    <path
+        android:pathData="M54,54m-16,0a16,16 0,1 1,32 0a16,16 0,1 1,-32 0"
+        android:strokeColor="#A9C7D8"
+        android:strokeWidth="2.5"
+        android:fillColor="#15A9C7D8" />
+    <!-- Inside brand diamond core -->
+    <path
+        android:pathData="M54,45 L63,54 L54,63 L45,54 Z"
+        android:fillColor="#EEF6FA"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5" />
+    <!-- High-tech HUD bracket corner ticks -->
+    <path
+        android:pathData="M44,36 L36,36 L36,44"
+        android:strokeColor="#80EEF6FA"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M64,36 L72,36 L72,44"
+        android:strokeColor="#80EEF6FA"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M36,64 L36,72 L44,72"
+        android:strokeColor="#80EEF6FA"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M72,64 L72,72 L64,72"
+        android:strokeColor="#80EEF6FA"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
